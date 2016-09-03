@@ -15,5 +15,13 @@
     "generate"
   ],
   "author": "Shweta Sabne <shwetasabne@gmail.com> (http://www.shwetasabne.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.4.0",
+    "eslint-config-airbnb-base": "^5.0.3",
+    "eslint-plugin-import": "^1.14.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.0.2"
+  }
 }
